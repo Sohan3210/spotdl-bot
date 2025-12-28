@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.14.0
+python-dotenv==1.0.0
+spotdl==4.2.8
+yt-dlp==2024.12.13
